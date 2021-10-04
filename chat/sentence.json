@@ -191,7 +191,7 @@
 	"queers",
 	"lesbians"
 ],
-    "3": [
+    "5": [
 		"I need", 
 		"I want", 
 		"do you want to be", 
@@ -207,7 +207,7 @@
 		"I should be your",
 		"I should be"
 ],
-    "4": [
+    "6": [
 		"bf", 
 		"gf", 
 		"a bf", 
@@ -224,6 +224,12 @@
 		"my boyfriend", 
 		"my bf", 
 		"my gf"
+],
+    "5": [
+		"all", 
+],
+    "6": [
+		"type", 
 ],
     "names": [
 	"negger",
